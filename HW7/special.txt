@@ -1,0 +1,8 @@
+No course has any prerequisites
+cse100
+cse200
+cse300
+cse400
+cse500
+cse600
+cse700

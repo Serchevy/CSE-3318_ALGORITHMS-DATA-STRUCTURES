@@ -1,0 +1,17 @@
+Where did you run your program: VM/Ubuntu
+
+data1.txt : 
+	sorted correct? Yes. Array was sorted correctly
+	Valgrind errors? No errors popped up during my run
+
+neg1.txt : 
+	sorted correct? Yes. Array was sorted correctly
+	Valgrind errors? No errors popped up during my run
+
+dex1.txt : 
+	sorted correct? Yes. Array was sorted correctly
+	Valgrind errors? No errors popped up during my run
+
+student_data.txt : 
+	sorted correct? Yes. Array was sorted correctly
+	Valgrind errors? No errors popped up during my run

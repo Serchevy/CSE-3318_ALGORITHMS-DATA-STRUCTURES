@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1662682203 source:/home/student/Documents/3318_Code/HW1/Task1/read_2D_001.c
+	<stdio.h>
+	<stdlib.h>
+

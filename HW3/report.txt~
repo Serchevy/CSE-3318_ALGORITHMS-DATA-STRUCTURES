@@ -1,0 +1,17 @@
+Where did you run your program: VM/Ubuntu
+
+data1.txt : 
+	sorted correct? Yes
+	Valgrind errors? 
+
+neg1.txt : 
+	sorted correct? Yes
+	Valgrind errors? No errors popped up during run
+
+dex1.txt : 
+	sorted correct? Yes
+	Valgrind errors? No errors popped up during run
+
+student_data.txt : 
+	sorted correct? Yes
+	Valgrind errors? No errors popped up during run
